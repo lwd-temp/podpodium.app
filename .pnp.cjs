@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["mixpanel-browser", "npm:2.47.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fmixpanel-browser%2F-%2Fmixpanel-browser-2.47.0.tgz"],\
             ["next", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:12.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnext%2F-%2Fnext-12.3.4.tgz"],\
             ["nprogress", "npm:0.2.0"],\
-            ["postcss", "npm:8.3.0"],\
+            ["postcss", "npm:8.4.38"],\
             ["react", "npm:18.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact%2F-%2Freact-18.2.0.tgz"],\
             ["react-dom", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:18.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact-dom%2F-%2Freact-dom-18.2.0.tgz"],\
             ["react-icons", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:4.10.1"],\
@@ -150,7 +150,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fullhuman/postcss-purgecss", "virtual:2160faf842c005e9cf09bcee36ee2d6388e70b8ac53cd5d277adcd15fcbc99ff6da8e7aad79715e4b1d48b30a68431bf482de8650636fe8f32deb875fd9d1fc7#npm:3.1.3"],\
             ["@types/postcss", null],\
-            ["postcss", "npm:8.3.0"],\
+            ["postcss", "npm:8.4.38"],\
             ["purgecss", "npm:3.1.3"]\
           ],\
           "packagePeers": [\
@@ -1215,7 +1215,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["colorette", "npm:1.2.2"],\
             ["fraction.js", "npm:4.1.1"],\
             ["normalize-range", "npm:0.1.2"],\
-            ["postcss", "npm:8.3.0"],\
+            ["postcss", "npm:8.4.38"],\
             ["postcss-value-parser", "npm:4.1.0"]\
           ],\
           "packagePeers": [\
@@ -4948,6 +4948,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nanoid", "npm:3.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2F-%2Fnanoid-3.3.4.tgz"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:3.3.7", {\
+          "packageLocation": "./.yarn/cache/nanoid-npm-3.3.7-98824ba130-d36c427e53.zip/node_modules/nanoid/",\
+          "packageDependencies": [\
+            ["nanoid", "npm:3.3.7"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["napi-build-utils", [\
@@ -5551,7 +5558,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["mixpanel-browser", "npm:2.47.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fmixpanel-browser%2F-%2Fmixpanel-browser-2.47.0.tgz"],\
             ["next", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:12.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnext%2F-%2Fnext-12.3.4.tgz"],\
             ["nprogress", "npm:0.2.0"],\
-            ["postcss", "npm:8.3.0"],\
+            ["postcss", "npm:8.4.38"],\
             ["react", "npm:18.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact%2F-%2Freact-18.2.0.tgz"],\
             ["react-dom", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:18.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact-dom%2F-%2Freact-dom-18.2.0.tgz"],\
             ["react-icons", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:4.10.1"],\
@@ -5599,6 +5606,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["source-map-js", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map-js%2F-%2Fsource-map-js-1.0.2.tgz"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:8.4.38", {\
+          "packageLocation": "./.yarn/cache/postcss-npm-8.4.38-495621b279-649f9e60a7.zip/node_modules/postcss/",\
+          "packageDependencies": [\
+            ["postcss", "npm:8.4.38"],\
+            ["nanoid", "npm:3.3.7"],\
+            ["picocolors", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpicocolors%2F-%2Fpicocolors-1.0.0.tgz"],\
+            ["source-map-js", "npm:1.2.0"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["postcss-functions", [\
@@ -5638,7 +5655,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["postcss-nested", "virtual:2160faf842c005e9cf09bcee36ee2d6388e70b8ac53cd5d277adcd15fcbc99ff6da8e7aad79715e4b1d48b30a68431bf482de8650636fe8f32deb875fd9d1fc7#npm:5.0.5"],\
             ["@types/postcss", null],\
-            ["postcss", "npm:8.3.0"],\
+            ["postcss", "npm:8.4.38"],\
             ["postcss-selector-parser", "npm:6.0.6"]\
           ],\
           "packagePeers": [\
@@ -6561,6 +6578,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["source-map-js", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map-js%2F-%2Fsource-map-js-1.0.2.tgz"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:1.2.0", {\
+          "packageLocation": "./.yarn/cache/source-map-js-npm-1.2.0-6e63f357e5-791a43306d.zip/node_modules/source-map-js/",\
+          "packageDependencies": [\
+            ["source-map-js", "npm:1.2.0"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["space-separated-tokens", [\
@@ -6941,7 +6965,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["normalize-path", "npm:3.0.0"],\
             ["object-hash", "npm:2.2.0"],\
             ["parse-glob", "npm:3.0.4"],\
-            ["postcss", "npm:8.3.0"],\
+            ["postcss", "npm:8.4.38"],\
             ["postcss-functions", "npm:3.0.0"],\
             ["postcss-js", "npm:3.0.3"],\
             ["postcss-nested", "virtual:2160faf842c005e9cf09bcee36ee2d6388e70b8ac53cd5d277adcd15fcbc99ff6da8e7aad79715e4b1d48b30a68431bf482de8650636fe8f32deb875fd9d1fc7#npm:5.0.5"],\
