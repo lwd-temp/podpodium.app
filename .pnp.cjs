@@ -835,7 +835,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["debug", "virtual:e15cc6682f7fe3078b441d8e4ac880f2b57983f1d094bd02c7fa8693fc55370562b247f1ffe1a09eecd128c913ac8bcea7d28475a16f7f1cb20f74aa75b66cc5#npm:4.3.2"],\
             ["globby", "npm:11.0.4"],\
             ["is-glob", "npm:4.0.1"],\
-            ["semver", "npm:7.3.5"],\
+            ["semver", "npm:7.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.8.tgz"],\
             ["tsutils", "virtual:1779cf0e1f369c7fe1d4531c789c674a3bfd1c2e1859989b1d3dff5dd3f91faa21de5de892789086b4df1156bfae20d831d80d2e0be60ad67f0890b957df538e#npm:3.21.0"],\
             ["typescript", "patch:typescript@npm%3A4.9.3%3A%3A__archiveUrl=https%253A%252F%252Fregistry.npmmirror.com%252Ftypescript%252F-%252Ftypescript-4.9.3.tgz#~builtin<compat/typescript>::version=4.9.3&hash=a66ed4"]\
           ],\
@@ -2308,7 +2308,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["optionator", "npm:0.9.1"],\
             ["progress", "npm:2.0.3"],\
             ["regexpp", "npm:3.2.0"],\
-            ["semver", "npm:7.3.5"],\
+            ["semver", "npm:7.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.8.tgz"],\
             ["strip-ansi", "npm:6.0.0"],\
             ["strip-json-comments", "npm:3.1.1"],\
             ["table", "npm:6.7.1"],\
@@ -5030,7 +5030,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/node-abi-npm-3.28.0-7ecff15426-ed8db5e58f.zip/node_modules/node-abi/",\
           "packageDependencies": [\
             ["node-abi", "npm:3.28.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-abi%2F-%2Fnode-abi-3.28.0.tgz"],\
-            ["semver", "npm:7.3.5"]\
+            ["semver", "npm:7.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.8.tgz"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5090,7 +5090,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nopt", "npm:5.0.0"],\
             ["npmlog", "npm:4.1.2"],\
             ["rimraf", "npm:3.0.2"],\
-            ["semver", "npm:7.3.5"],\
+            ["semver", "npm:7.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.8.tgz"],\
             ["tar", "npm:6.1.8"],\
             ["which", "npm:2.0.2"]\
           ],\
@@ -5123,7 +5123,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["normalize-package-data", "npm:2.5.0"],\
             ["hosted-git-info", "npm:2.8.9"],\
             ["resolve", "patch:resolve@npm%3A1.20.0#~builtin<compat/resolve>::version=1.20.0&hash=c3c19d"],\
-            ["semver", "npm:5.7.1"],\
+            ["semver", "npm:5.7.2"],\
             ["validate-npm-package-license", "npm:3.0.4"]\
           ],\
           "linkType": "HARD"\
@@ -6356,18 +6356,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semver", [\
-        ["npm:5.7.1", {\
-          "packageLocation": "./.yarn/cache/semver-npm-5.7.1-40bcea106b-57fd0acfd0.zip/node_modules/semver/",\
+        ["npm:5.7.2", {\
+          "packageLocation": "./.yarn/cache/semver-npm-5.7.2-938ee91eaa-fb4ab5e0dd.zip/node_modules/semver/",\
           "packageDependencies": [\
-            ["semver", "npm:5.7.1"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
-        ["npm:7.3.5", {\
-          "packageLocation": "./.yarn/cache/semver-npm-7.3.5-618cf5db6a-5eafe6102b.zip/node_modules/semver/",\
-          "packageDependencies": [\
-            ["semver", "npm:7.3.5"],\
-            ["lru-cache", "npm:6.0.0"]\
+            ["semver", "npm:5.7.2"]\
           ],\
           "linkType": "HARD"\
         }],\
