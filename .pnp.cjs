@@ -1239,7 +1239,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/axios-npm-1.4.0-5e3d0488ec-7fb6a4313b.zip/node_modules/axios/",\
           "packageDependencies": [\
             ["axios", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-1.4.0.tgz"],\
-            ["follow-redirects", "virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"],\
+            ["follow-redirects", "virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.6"],\
             ["form-data", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-4.0.0.tgz"],\
             ["proxy-from-env", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fproxy-from-env%2F-%2Fproxy-from-env-1.1.0.tgz"]\
           ],\
@@ -2874,17 +2874,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["follow-redirects", [\
-        ["npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz", {\
-          "packageLocation": "./.yarn/cache/follow-redirects-npm-1.15.2-64f626b9a8-faa66059b6.zip/node_modules/follow-redirects/",\
+        ["npm:1.15.6", {\
+          "packageLocation": "./.yarn/cache/follow-redirects-npm-1.15.6-50635fe51d-a62c378dfc.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"]\
+            ["follow-redirects", "npm:1.15.6"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz", {\
-          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-c2594b7b28/0/cache/follow-redirects-npm-1.15.2-64f626b9a8-faa66059b6.zip/node_modules/follow-redirects/",\
+        ["virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.6", {\
+          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-1c35baa6f1/0/cache/follow-redirects-npm-1.15.6-50635fe51d-a62c378dfc.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"],\
+            ["follow-redirects", "virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.6"],\
             ["@types/debug", null],\
             ["debug", null]\
           ],\
