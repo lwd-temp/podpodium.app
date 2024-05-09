@@ -32,7 +32,7 @@
     "recoil": "^0.3.1",
     "rehype-img-size": "^1.0.1",
     "remark-gfm": "^3.0.1",
-    "sharp": "^0.31.2",
+    "sharp": "^0.32.6",
     "string-strip-html": "^13.4.1",
     "tailwindcss": "^2.1.4",
     "use-http": "^1.0.20"
