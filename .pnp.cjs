@@ -41,7 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/sharp", "npm:0.31.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fsharp%2F-%2Fsharp-0.31.0.tgz"],\
             ["@types/wicg-mediasession", "npm:1.1.2"],\
             ["autoprefixer", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:10.2.6"],\
-            ["axios", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-1.4.0.tgz"],\
+            ["axios", "npm:1.6.8"],\
             ["classnames", "npm:2.3.1"],\
             ["date-fns", "npm:2.22.1"],\
             ["eslint", "npm:7.32.0"],\
@@ -1235,11 +1235,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["axios", [\
-        ["npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-1.4.0.tgz", {\
-          "packageLocation": "./.yarn/cache/axios-npm-1.4.0-5e3d0488ec-7fb6a4313b.zip/node_modules/axios/",\
+        ["npm:1.6.8", {\
+          "packageLocation": "./.yarn/cache/axios-npm-1.6.8-85cf1e7152-bf007fa4b2.zip/node_modules/axios/",\
           "packageDependencies": [\
-            ["axios", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-1.4.0.tgz"],\
-            ["follow-redirects", "virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"],\
+            ["axios", "npm:1.6.8"],\
+            ["follow-redirects", "virtual:85cf1e7152e3c0d8e39e61ad2b81b59a43fb6bdb8f3bf49869bb97804b1403ecaee4505fcb0d4869cfdd99ee3eaa880b79498575407fb770c800bf64c64156ec#npm:1.15.6"],\
             ["form-data", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-4.0.0.tgz"],\
             ["proxy-from-env", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fproxy-from-env%2F-%2Fproxy-from-env-1.1.0.tgz"]\
           ],\
@@ -2874,17 +2874,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["follow-redirects", [\
-        ["npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz", {\
-          "packageLocation": "./.yarn/cache/follow-redirects-npm-1.15.2-64f626b9a8-faa66059b6.zip/node_modules/follow-redirects/",\
+        ["npm:1.15.6", {\
+          "packageLocation": "./.yarn/cache/follow-redirects-npm-1.15.6-50635fe51d-a62c378dfc.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"]\
+            ["follow-redirects", "npm:1.15.6"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz", {\
-          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-c2594b7b28/0/cache/follow-redirects-npm-1.15.2-64f626b9a8-faa66059b6.zip/node_modules/follow-redirects/",\
+        ["virtual:85cf1e7152e3c0d8e39e61ad2b81b59a43fb6bdb8f3bf49869bb97804b1403ecaee4505fcb0d4869cfdd99ee3eaa880b79498575407fb770c800bf64c64156ec#npm:1.15.6", {\
+          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-7bb5ea93fd/0/cache/follow-redirects-npm-1.15.6-50635fe51d-a62c378dfc.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "virtual:5e3d0488ec868b8d227d8294570f0da31a6ac18d4f18a3531b4c8bd66609731ad1c6eac0329b9c8f0b7f0856b69f8c7d7eb248034341b366ce4c1647062c0a35#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"],\
+            ["follow-redirects", "virtual:85cf1e7152e3c0d8e39e61ad2b81b59a43fb6bdb8f3bf49869bb97804b1403ecaee4505fcb0d4869cfdd99ee3eaa880b79498575407fb770c800bf64c64156ec#npm:1.15.6"],\
             ["@types/debug", null],\
             ["debug", null]\
           ],\
@@ -5543,7 +5543,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/sharp", "npm:0.31.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fsharp%2F-%2Fsharp-0.31.0.tgz"],\
             ["@types/wicg-mediasession", "npm:1.1.2"],\
             ["autoprefixer", "virtual:bf51bf75d417c8442dc3770a53a6b7d5de2338a3ca1bcb5311b3cfc5bd9318d99437176610103b6d33b5a139464fb2312d86b5adf7f41fccecdc501fda3b7624#npm:10.2.6"],\
-            ["axios", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-1.4.0.tgz"],\
+            ["axios", "npm:1.6.8"],\
             ["classnames", "npm:2.3.1"],\
             ["date-fns", "npm:2.22.1"],\
             ["eslint", "npm:7.32.0"],\
